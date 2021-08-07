@@ -1,0 +1,1 @@
+# Handwriting_Recognition_Hindi_LSTM_CTC
